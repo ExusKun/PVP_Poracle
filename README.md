@@ -6,7 +6,7 @@
   
   
   
-**Note:** queries are based on Poracle V4 !! In case you are still using V3 it is easy to adapt, change:  
+**Note:** queries are based on Poracle V4, in case you are still using V3 it is easy to adapt, change:  
 - max_atk => maxAtk  
 - max_def => maxDef  
 - max_sta => maxSta
