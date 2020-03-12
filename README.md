@@ -1,6 +1,6 @@
 # PVP_Poracle
 
-- top 25 PVP ranking  
+- great league, top 25 PVP ranking  
 - insert directly into database  
 - change channel_number  
   
